@@ -1,0 +1,11 @@
+Testando o Type Script
+
+Verificando no terminal: tsc – v
+Gerando o arquivo tsconfig.json: tsc –init
+
+Fazendo o built:
+Configurar no tsconfig o rootDir: “./src”
+Configurar a saida: outDir: “./dist/js”
+
+Para compilar digitar no terminal: tsc
+Compilação automática: tsc -w
